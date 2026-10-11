@@ -1,0 +1,6 @@
+{
+  "name": "IronFit Pro | متجر العدة الرياضية",
+  "description": "منصة متكاملة لتجارة الأجهزة والعدة الرياضية مع خيارات دفع متعددة، تتبع فوري للطلبات، دردشة دعم فني مباشر، ولوحة تحكم متقدمة لإدارة المخزون والطلبات وتقارير المبيعات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
